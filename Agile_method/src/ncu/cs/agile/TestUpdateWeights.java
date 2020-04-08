@@ -7,8 +7,9 @@ import org.junit.Test;
 public class TestUpdateWeights {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void TestUpdateWeights1() {
+		GradeSystems aGS = new GradeSystems();
+		assertEquals(true, aGS.updateWeights());
 	}
 
 }
