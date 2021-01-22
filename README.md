@@ -7,4 +7,7 @@
 * Agile_Method : new version of gradeSystem project
   * Intellij IDEA Ultimate 2019.3.5
   * junit 5.6.2
+  * use gradle to build the project
+  * Errors: Test events were not received 
+    * Settings -> Build, Execution, Deployment -> Build Tools -> Gradle -> Run test using "Intellij IDEA"
 * 其他file可以不用看
