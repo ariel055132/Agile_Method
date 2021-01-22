@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42531713-7d96-49e2-a249-8fbec72adab6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nKASTk8VklHa07MCMzvTFKARTG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Agile" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Agile" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Ex" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.testModifyScore.testModifyScore4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Agile.Main" />
+      <module name="Agile_Method.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Agile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testDeleteStudents.testDeleteStudents3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile_Method.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Agile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Agile" />
+      <option name="MAIN_CLASS_NAME" value="Agile.testDeleteStudents" />
+      <option name="METHOD_NAME" value="testDeleteStudents3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testModifyScore.testModifyScore2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile_Method.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Agile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Agile" />
+      <option name="MAIN_CLASS_NAME" value="Agile.testModifyScore" />
+      <option name="METHOD_NAME" value="testModifyScore2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testModifyScore.testModifyScore3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile_Method.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Agile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Agile" />
+      <option name="MAIN_CLASS_NAME" value="Agile.testModifyScore" />
+      <option name="METHOD_NAME" value="testModifyScore3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testModifyScore.testModifyScore4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Agile_Method.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Agile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Agile" />
+      <option name="MAIN_CLASS_NAME" value="Agile.testModifyScore" />
+      <option name="METHOD_NAME" value="testModifyScore4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testModifyScore.testModifyScore4" />
+        <item itemvalue="JUnit.testModifyScore.testModifyScore3" />
+        <item itemvalue="JUnit.testModifyScore.testModifyScore2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.testDeleteStudents.testDeleteStudents3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42531713-7d96-49e2-a249-8fbec72adab6" name="Default Changelist" comment="" />
+      <created>1611128407619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611128407619</updated>
+      <workItem from="1611128411592" duration="35524000" />
+      <workItem from="1611232589749" duration="25887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1118" y="277" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1611156117809">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="1118" y="277" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1920.985@0.27.1920.985" timestamp="1611156117809" />
+    <state x="803" y="185" width="924" height="696" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1611243253014">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="803" y="185" width="924" height="696" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.985@0.27.1920.985" timestamp="1611243253014" />
+    <state x="1248" y="232" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1611244917557">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="1248" y="232" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.985@0.27.1920.985" timestamp="1611244917557" />
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl" timestamp="1611144097257">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="743" y="277" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1611144097257" />
+    <state width="1874" height="222" key="GridCell.Tab.0.bottom" timestamp="1611303327635">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="222" key="GridCell.Tab.0.bottom/0.27.1920.985@0.27.1920.985" timestamp="1611303327635" />
+    <state width="1874" height="222" key="GridCell.Tab.0.center" timestamp="1611303327634">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="222" key="GridCell.Tab.0.center/0.27.1920.985@0.27.1920.985" timestamp="1611303327634" />
+    <state width="1874" height="222" key="GridCell.Tab.0.left" timestamp="1611303327634">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="222" key="GridCell.Tab.0.left/0.27.1920.985@0.27.1920.985" timestamp="1611303327634" />
+    <state width="1874" height="222" key="GridCell.Tab.0.right" timestamp="1611303327634">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="222" key="GridCell.Tab.0.right/0.27.1920.985@0.27.1920.985" timestamp="1611303327634" />
+    <state width="1874" height="313" key="GridCell.Tab.1.bottom" timestamp="1611144625661">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="313" key="GridCell.Tab.1.bottom/0.27.1920.985@0.27.1920.985" timestamp="1611144625661" />
+    <state width="1874" height="313" key="GridCell.Tab.1.center" timestamp="1611144625661">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="313" key="GridCell.Tab.1.center/0.27.1920.985@0.27.1920.985" timestamp="1611144625661" />
+    <state width="1874" height="313" key="GridCell.Tab.1.left" timestamp="1611144625661">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="313" key="GridCell.Tab.1.left/0.27.1920.985@0.27.1920.985" timestamp="1611144625661" />
+    <state width="1874" height="313" key="GridCell.Tab.1.right" timestamp="1611144625661">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1874" height="313" key="GridCell.Tab.1.right/0.27.1920.985@0.27.1920.985" timestamp="1611144625661" />
+    <state x="996" y="120" width="924" height="688" key="Maven.ArtifactSearchDialog" timestamp="1611128730284">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="996" y="120" width="924" height="688" key="Maven.ArtifactSearchDialog/0.27.1920.985@0.27.1920.985" timestamp="1611128730284" />
+    <state x="390" y="77" width="1293" height="835" key="SettingsEditor" timestamp="1611232656308">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="390" y="77" width="1293" height="835" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1611232656308" />
+    <state x="1008" y="183" width="598" height="769" key="refactoring.ChangeSignatureDialog" timestamp="1611147888051">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="1008" y="183" width="598" height="769" key="refactoring.ChangeSignatureDialog/0.27.1920.985@0.27.1920.985" timestamp="1611147888051" />
+    <state x="1103" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1611164174966">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="1103" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.985@0.27.1920.985" timestamp="1611164174966" />
+  </component>
+</project>
